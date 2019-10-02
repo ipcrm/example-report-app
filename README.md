@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Example Report App
+This example react app creates a report of build data.
+
+![Build Report](img/example.png)
+
+
 ## Setup
 Must supply REACT_APP_TOKEN in a `.env` (or similar, using dotenv) file
 
